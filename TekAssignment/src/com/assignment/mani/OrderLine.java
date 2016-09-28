@@ -1,5 +1,5 @@
-package com.assginment.mani;
-import com.assginment.mani.Item;
+package com.assignment.mani;
+import com.assignment.mani.Item;
 
 public class OrderLine {
 

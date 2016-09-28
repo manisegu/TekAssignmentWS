@@ -1,8 +1,8 @@
-package com.assginment.mani;
+package com.assignment.mani;
 
 import java.util.Map;
 
-import com.assginment.mani.Order;
+import com.assignment.mani.Order;
 
 public class Calculator {                                     /**Class name should start with Uppercase,so first letter of class name was made to Uppercase */
 

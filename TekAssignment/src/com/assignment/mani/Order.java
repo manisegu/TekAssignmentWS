@@ -1,9 +1,9 @@
-package com.assginment.mani;
+package com.assignment.mani;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.assginment.mani.OrderLine;
+import com.assignment.mani.OrderLine;
 
 public class Order {
 

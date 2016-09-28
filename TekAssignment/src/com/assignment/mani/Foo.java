@@ -1,12 +1,12 @@
-package com.assginment.mani;
+package com.assignment.mani;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-import com.assginment.mani.Item;
-import com.assginment.mani.Order;
-import com.assginment.mani.OrderLine;
-import static com.assginment.mani.Calculator.calculate;
+import com.assignment.mani.Item;
+import com.assignment.mani.Order;
+import com.assignment.mani.OrderLine;
+import static com.assignment.mani.Calculator.calculate;
 
 public class Foo {
 

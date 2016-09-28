@@ -1,4 +1,4 @@
-package com.assginment.mani;
+package com.assignment.mani;
 
 public class Item {
 
